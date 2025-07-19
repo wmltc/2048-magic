@@ -1,13 +1,9 @@
-
 <div align="right">
   <details>
-    <summary >🌐 Language</summary>
+    <summary >🌐 Other Language</summary>
     <div>
       <div align="center">
-        <a href="https://openaitx.github.io/view.html?user=sz30&project=2048-magic&lang=en">English</a>
-        | <a href="https://openaitx.github.io/view.html?user=sz30&project=2048-magic&lang=zh-CN">简体中文</a>
-        | <a href="https://openaitx.github.io/view.html?user=sz30&project=2048-magic&lang=zh-TW">繁體中文</a>
-        | <a href="https://openaitx.github.io/view.html?user=sz30&project=2048-magic&lang=ja">日本語</a>
+        <a href="https://openaitx.github.io/view.html?user=sz30&project=2048-magic&lang=ja">日本語</a>
         | <a href="https://openaitx.github.io/view.html?user=sz30&project=2048-magic&lang=ko">한국어</a>
         | <a href="https://openaitx.github.io/view.html?user=sz30&project=2048-magic&lang=hi">हिन्दी</a>
         | <a href="https://openaitx.github.io/view.html?user=sz30&project=2048-magic&lang=th">ไทย</a>
