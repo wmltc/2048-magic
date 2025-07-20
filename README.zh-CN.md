@@ -112,6 +112,7 @@ GPL-2.0 license
 ## 🙏 致谢
 
 感谢以下赞助者对本项目的支持：
+- [IDC.REST](https://idc.rest/) 提供服务器
 - [Serv00](https://serv00.com/) 提供服务器
   
 ---
