@@ -57,7 +57,7 @@
 
 ## 🎯 Demo
 
-🎯試玩：[http://2048.ct8.pl](http://2048.ct8.pl:9969/)
+🎯試玩：[2048.765431.xyz](https://2048.765431.xyz/)
 <img width="1279" alt="demo" src="https://github.com/user-attachments/assets/28fb9014-e52e-49b7-a413-a79b5f8749f0" />
 
 ## 📁 專案結構
